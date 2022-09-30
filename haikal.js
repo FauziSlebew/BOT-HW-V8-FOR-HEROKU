@@ -130,7 +130,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "14169948404-1305080833
 "externalAdReply": {
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://Instagram.com/Fauzibeban__`,
+"sourceUrl": `https://youtube.com/c/HwModsWa857`,
 "thumbnailUrl": 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 "thumbnail": kalimage
 }}}
@@ -154,18 +154,18 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "" } : {})
 //=================================================//
 //=================================================//
 const bal= (teks) => {
-haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `𝙁𝘼𝙐𝙕𝙄 ${ngazap(prefix)}`,"body": `𝙁𝘼𝙐𝙕𝙄 ${ngazap(prefix)}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://Instagram.com/Fauzibeban__https://Instagram.com/Fauzibeban__`}}}, { quoted: doc })
+haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `𝙁𝘼𝙐𝙕𝙄 ${ngazap(prefix)}`,"body": `𝙁𝘼𝙐𝙕𝙄 ${ngazap(prefix)}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}}, { quoted: doc })
 } 
 // Target
 const reply = (teks) => {
-return haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://Instagram.com/Fauzibeban__`}}}, { quoted: hw })
+return haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}}, { quoted: hw })
 } 
 
 const anjay = (teks) => {
  haikal.sendMessage(m.chat, { image: kalimage, caption: teks, contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -511,7 +511,7 @@ if (isBan) throw sticBanLu(from)
 haikal.relayMessage(m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net", { requestPaymentMessage: { Message: { extendedTextMessage: { text: teks, currencyCodeIso4217: 'IDR', requestFrom: '0@s.whatsapp.net', expiryTimestamp: 8000, amount: 1, contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 mimetype: 'audio/mpeg', caption: `${buttonkal}`,
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: virgam,
 }
@@ -2167,7 +2167,7 @@ break
 case 'sc': {
 if (isBan) throw sticBanLu(from)
 if (!isRegistered) return replyReg(mess.verif)
-anjay('Telegram : https://t.me/haikal857\n\n Sc Bot : https://Instagram.com/fauzibeban__')
+anjay('Telegram : https://t.me/haikal857\n\n Sc Bot : https://youtube.com/c/HwModsWa857')
 }
 break
 //=================================================//
@@ -4330,7 +4330,7 @@ Base Script
 ©𝙁𝘼𝙐𝙕𝙄`, contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://Instagram.com/fauzibeban__`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4391,7 +4391,8 @@ ngeselin`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__ributionnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
+thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
 }}, { quoted:hw})
@@ -4428,7 +4429,7 @@ suitpvp [@tag]`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4515,7 +4516,7 @@ cataloggc [ Contoh : cataloggc 1237891xxxx@g.us|10|10s ]`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4561,7 +4562,7 @@ nomorhoki
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4581,7 +4582,7 @@ iqra
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4612,7 +4613,8 @@ fajar-news `,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__ributionnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
+thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
 }}, { quoted:hw})
@@ -4650,7 +4652,7 @@ linkgroup
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4677,7 +4679,7 @@ tupai`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4705,7 +4707,7 @@ bokep`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4731,7 +4733,7 @@ searchgroups [query]`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4765,7 +4767,7 @@ ss [url]`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4789,7 +4791,7 @@ delmsg`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4811,7 +4813,7 @@ mediafire [url]`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4848,7 +4850,7 @@ speedtest`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -4900,7 +4902,7 @@ meme2`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
@@ -5077,7 +5079,7 @@ sound161`,
 contextInfo:{"externalAdReply": {"title": `SC 𝙁𝘼𝙐𝙕𝙄`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://Instagram.com/Fauzibeban__`,
+sourceUrl: `https://youtube.com/c/HwModsWa857`,
 thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
 thumbnail: kalimage,
 }
